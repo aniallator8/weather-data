@@ -3,5348 +3,5348 @@
       "year": "2019",
       "month": "1",
       "day": "1",
-      "min_temp": "15.5",
-      "max_temp": "26.2"
+      "temperatureLow": "15.5",
+      "temperatureHigh": "26.2"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "2",
-      "min_temp": "18.4",
-      "max_temp": "22.2"
+      "temperatureLow": "18.4",
+      "temperatureHigh": "22.2"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "3",
-      "min_temp": "15.9",
-      "max_temp": "29.5"
+      "temperatureLow": "15.9",
+      "temperatureHigh": "29.5"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "4",
-      "min_temp": "18.0",
-      "max_temp": "42.6"
+      "temperatureLow": "18.0",
+      "temperatureHigh": "42.6"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "5",
-      "min_temp": "17.4",
-      "max_temp": "21.2"
+      "temperatureLow": "17.4",
+      "temperatureHigh": "21.2"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "6",
-      "min_temp": "14.6",
-      "max_temp": "22.1"
+      "temperatureLow": "14.6",
+      "temperatureHigh": "22.1"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "7",
-      "min_temp": "17.1",
-      "max_temp": "23.1"
+      "temperatureLow": "17.1",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "8",
-      "min_temp": "16.7",
-      "max_temp": "24.1"
+      "temperatureLow": "16.7",
+      "temperatureHigh": "24.1"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "9",
-      "min_temp": "16.1",
-      "max_temp": "20.5"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "20.5"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "10",
-      "min_temp": "13.5",
-      "max_temp": "21.4"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "21.4"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "11",
-      "min_temp": "12.9",
-      "max_temp": "30.4"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "30.4"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "12",
-      "min_temp": "17.7",
-      "max_temp": "24.7"
+      "temperatureLow": "17.7",
+      "temperatureHigh": "24.7"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "13",
-      "min_temp": "14.4",
-      "max_temp": "30.5"
+      "temperatureLow": "14.4",
+      "temperatureHigh": "30.5"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "14",
-      "min_temp": "18.7",
-      "max_temp": "32.3"
+      "temperatureLow": "18.7",
+      "temperatureHigh": "32.3"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "15",
-      "min_temp": "19.4",
-      "max_temp": "30.4"
+      "temperatureLow": "19.4",
+      "temperatureHigh": "30.4"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "16",
-      "min_temp": "19.8",
-      "max_temp": "26.7"
+      "temperatureLow": "19.8",
+      "temperatureHigh": "26.7"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "17",
-      "min_temp": "20.7",
-      "max_temp": "32.5"
+      "temperatureLow": "20.7",
+      "temperatureHigh": "32.5"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "18",
-      "min_temp": "22.3",
-      "max_temp": "28.7"
+      "temperatureLow": "22.3",
+      "temperatureHigh": "28.7"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "19",
-      "min_temp": "16.5",
-      "max_temp": "23.5"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "23.5"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "20",
-      "min_temp": "15.2",
-      "max_temp": "22.9"
+      "temperatureLow": "15.2",
+      "temperatureHigh": "22.9"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "21",
-      "min_temp": "18.4",
-      "max_temp": "25.1"
+      "temperatureLow": "18.4",
+      "temperatureHigh": "25.1"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "22",
-      "min_temp": "19.0",
-      "max_temp": "26.8"
+      "temperatureLow": "19.0",
+      "temperatureHigh": "26.8"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "23",
-      "min_temp": "18.7",
-      "max_temp": "23.9"
+      "temperatureLow": "18.7",
+      "temperatureHigh": "23.9"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "24",
-      "min_temp": "17.3",
-      "max_temp": "40.8"
+      "temperatureLow": "17.3",
+      "temperatureHigh": "40.8"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "25",
-      "min_temp": "21.1",
-      "max_temp": "42.8"
+      "temperatureLow": "21.1",
+      "temperatureHigh": "42.8"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "26",
-      "min_temp": "19.9",
-      "max_temp": "26.1"
+      "temperatureLow": "19.9",
+      "temperatureHigh": "26.1"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "27",
-      "min_temp": "18.4",
-      "max_temp": "27.8"
+      "temperatureLow": "18.4",
+      "temperatureHigh": "27.8"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "28",
-      "min_temp": "15.5",
-      "max_temp": "34.5"
+      "temperatureLow": "15.5",
+      "temperatureHigh": "34.5"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "29",
-      "min_temp": "17.5",
-      "max_temp": "36.8"
+      "temperatureLow": "17.5",
+      "temperatureHigh": "36.8"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "30",
-      "min_temp": "18.0",
-      "max_temp": "38.1"
+      "temperatureLow": "18.0",
+      "temperatureHigh": "38.1"
     },
     {
       "year": "2019",
       "month": "1",
       "day": "31",
-      "min_temp": "17.2",
-      "max_temp": "21.5"
+      "temperatureLow": "17.2",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "1",
-      "min_temp": "12.6",
-      "max_temp": "24.2"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "24.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "2",
-      "min_temp": "15.0",
-      "max_temp": "34.4"
+      "temperatureLow": "15.0",
+      "temperatureHigh": "34.4"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "3",
-      "min_temp": "19.1",
-      "max_temp": "38.2"
+      "temperatureLow": "19.1",
+      "temperatureHigh": "38.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "4",
-      "min_temp": "20.0",
-      "max_temp": "22.7"
+      "temperatureLow": "20.0",
+      "temperatureHigh": "22.7"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "5",
-      "min_temp": "17.7",
-      "max_temp": "26.9"
+      "temperatureLow": "17.7",
+      "temperatureHigh": "26.9"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "6",
-      "min_temp": "18.5",
-      "max_temp": "34.7"
+      "temperatureLow": "18.5",
+      "temperatureHigh": "34.7"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "7",
-      "min_temp": "20.7",
-      "max_temp": "28.3"
+      "temperatureLow": "20.7",
+      "temperatureHigh": "28.3"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "8",
-      "min_temp": "18.1",
-      "max_temp": "23.1"
+      "temperatureLow": "18.1",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "9",
-      "min_temp": "14.6",
-      "max_temp": "19.7"
+      "temperatureLow": "14.6",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "10",
-      "min_temp": "13.0",
-      "max_temp": "23.3"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "23.3"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "11",
-      "min_temp": "14.4",
-      "max_temp": "27.5"
+      "temperatureLow": "14.4",
+      "temperatureHigh": "27.5"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "12",
-      "min_temp": "18.4",
-      "max_temp": "21.5"
+      "temperatureLow": "18.4",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "13",
-      "min_temp": "11.8",
-      "max_temp": "19.2"
+      "temperatureLow": "11.8",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "14",
-      "min_temp": "12.3",
-      "max_temp": "23.2"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "23.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "15",
-      "min_temp": "14.8",
-      "max_temp": "22.8"
+      "temperatureLow": "14.8",
+      "temperatureHigh": "22.8"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "16",
-      "min_temp": "16.1",
-      "max_temp": "23.2"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "23.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "17",
-      "min_temp": "15.0",
-      "max_temp": "29.0"
+      "temperatureLow": "15.0",
+      "temperatureHigh": "29.0"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "18",
-      "min_temp": "18.0",
-      "max_temp": "23.6"
+      "temperatureLow": "18.0",
+      "temperatureHigh": "23.6"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "19",
-      "min_temp": "13.7",
-      "max_temp": "20.2"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "20",
-      "min_temp": "13.5",
-      "max_temp": "23.2"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "23.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "21",
-      "min_temp": "14.0",
-      "max_temp": "20.4"
+      "temperatureLow": "14.0",
+      "temperatureHigh": "20.4"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "22",
-      "min_temp": "15.5",
-      "max_temp": "21.2"
+      "temperatureLow": "15.5",
+      "temperatureHigh": "21.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "23",
-      "min_temp": "16.4",
-      "max_temp": "25.8"
+      "temperatureLow": "16.4",
+      "temperatureHigh": "25.8"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "24",
-      "min_temp": "13.8",
-      "max_temp": "32.9"
+      "temperatureLow": "13.8",
+      "temperatureHigh": "32.9"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "25",
-      "min_temp": "18.0",
-      "max_temp": "34.2"
+      "temperatureLow": "18.0",
+      "temperatureHigh": "34.2"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "26",
-      "min_temp": "17.9",
-      "max_temp": "22.3"
+      "temperatureLow": "17.9",
+      "temperatureHigh": "22.3"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "27",
-      "min_temp": "12.9",
-      "max_temp": "25.7"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "25.7"
     },
     {
       "year": "2019",
       "month": "2",
       "day": "28",
-      "min_temp": "16.3",
-      "max_temp": "36.8"
+      "temperatureLow": "16.3",
+      "temperatureHigh": "36.8"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "1",
-      "min_temp": "22.6",
-      "max_temp": "38.1"
+      "temperatureLow": "22.6",
+      "temperatureHigh": "38.1"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "2",
-      "min_temp": "22.3",
-      "max_temp": "36.3"
+      "temperatureLow": "22.3",
+      "temperatureHigh": "36.3"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "3",
-      "min_temp": "25.1",
-      "max_temp": "36.0"
+      "temperatureLow": "25.1",
+      "temperatureHigh": "36.0"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "4",
-      "min_temp": "19.0",
-      "max_temp": "24.6"
+      "temperatureLow": "19.0",
+      "temperatureHigh": "24.6"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "5",
-      "min_temp": "18.0",
-      "max_temp": "24.3"
+      "temperatureLow": "18.0",
+      "temperatureHigh": "24.3"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "6",
-      "min_temp": "13.2",
-      "max_temp": "17.2"
+      "temperatureLow": "13.2",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "7",
-      "min_temp": "9.7",
-      "max_temp": "22.1"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "22.1"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "8",
-      "min_temp": "11.3",
-      "max_temp": "26.8"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "26.8"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "9",
-      "min_temp": "13.9",
-      "max_temp": "24.7"
+      "temperatureLow": "13.9",
+      "temperatureHigh": "24.7"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "10",
-      "min_temp": "14.3",
-      "max_temp": "23.7"
+      "temperatureLow": "14.3",
+      "temperatureHigh": "23.7"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "11",
-      "min_temp": "15.9",
-      "max_temp": "21.8"
+      "temperatureLow": "15.9",
+      "temperatureHigh": "21.8"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "12",
-      "min_temp": "15.8",
-      "max_temp": "19.2"
+      "temperatureLow": "15.8",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "13",
-      "min_temp": "11.9",
-      "max_temp": "18.6"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "14",
-      "min_temp": "12.1",
-      "max_temp": "20.8"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "20.8"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "15",
-      "min_temp": "11.7",
-      "max_temp": "22.2"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "22.2"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "16",
-      "min_temp": "12.2",
-      "max_temp": "25.6"
+      "temperatureLow": "12.2",
+      "temperatureHigh": "25.6"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "17",
-      "min_temp": "14.2",
-      "max_temp": "25.6"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "25.6"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "18",
-      "min_temp": "16.5",
-      "max_temp": "28.2"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "28.2"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "19",
-      "min_temp": "16.9",
-      "max_temp": "23.4"
+      "temperatureLow": "16.9",
+      "temperatureHigh": "23.4"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "20",
-      "min_temp": "19.3",
-      "max_temp": "23.4"
+      "temperatureLow": "19.3",
+      "temperatureHigh": "23.4"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "21",
-      "min_temp": "18.2",
-      "max_temp": "24.3"
+      "temperatureLow": "18.2",
+      "temperatureHigh": "24.3"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "22",
-      "min_temp": "18.7",
-      "max_temp": "28.6"
+      "temperatureLow": "18.7",
+      "temperatureHigh": "28.6"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "23",
-      "min_temp": "19.9",
-      "max_temp": "31.3"
+      "temperatureLow": "19.9",
+      "temperatureHigh": "31.3"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "24",
-      "min_temp": "16.5",
-      "max_temp": "29.3"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "29.3"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "25",
-      "min_temp": "14.8",
-      "max_temp": "19.0"
+      "temperatureLow": "14.8",
+      "temperatureHigh": "19.0"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "26",
-      "min_temp": "12.3",
-      "max_temp": "20.3"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "20.3"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "27",
-      "min_temp": "11.1",
-      "max_temp": "21.7"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "21.7"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "28",
-      "min_temp": "11.6",
-      "max_temp": "27.9"
+      "temperatureLow": "11.6",
+      "temperatureHigh": "27.9"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "29",
-      "min_temp": "14.6",
-      "max_temp": "28.5"
+      "temperatureLow": "14.6",
+      "temperatureHigh": "28.5"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "30",
-      "min_temp": "9.1",
-      "max_temp": "15.6"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "15.6"
     },
     {
       "year": "2019",
       "month": "3",
       "day": "31",
-      "min_temp": "9.4",
-      "max_temp": "18.5"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "18.5"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "1",
-      "min_temp": "13.0",
-      "max_temp": "17.1"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "2",
-      "min_temp": "7.4",
-      "max_temp": "25.9"
+      "temperatureLow": "7.4",
+      "temperatureHigh": "25.9"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "3",
-      "min_temp": "9.4",
-      "max_temp": "24.7"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "24.7"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "4",
-      "min_temp": "13.3",
-      "max_temp": "21.9"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "21.9"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "5",
-      "min_temp": "14.4",
-      "max_temp": "28.5"
+      "temperatureLow": "14.4",
+      "temperatureHigh": "28.5"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "6",
-      "min_temp": "16.5",
-      "max_temp": "20.1"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "7",
-      "min_temp": "9.5",
-      "max_temp": "26.5"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "26.5"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "8",
-      "min_temp": "12.5",
-      "max_temp": "23.1"
+      "temperatureLow": "12.5",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "9",
-      "min_temp": "11.1",
-      "max_temp": "16.3"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "16.3"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "10",
-      "min_temp": "10.7",
-      "max_temp": "15.8"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "11",
-      "min_temp": "11.3",
-      "max_temp": "17.3"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "17.3"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "12",
-      "min_temp": "6.7",
-      "max_temp": "24.9"
+      "temperatureLow": "6.7",
+      "temperatureHigh": "24.9"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "13",
-      "min_temp": "10.5",
-      "max_temp": "20.7"
+      "temperatureLow": "10.5",
+      "temperatureHigh": "20.7"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "14",
-      "min_temp": "11.8",
-      "max_temp": "22.5"
+      "temperatureLow": "11.8",
+      "temperatureHigh": "22.5"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "15",
-      "min_temp": "12.9",
-      "max_temp": "27.4"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "27.4"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "16",
-      "min_temp": "17.1",
-      "max_temp": "30.3"
+      "temperatureLow": "17.1",
+      "temperatureHigh": "30.3"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "17",
-      "min_temp": "22.1",
-      "max_temp": "30.0"
+      "temperatureLow": "22.1",
+      "temperatureHigh": "30.0"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "18",
-      "min_temp": "13.2",
-      "max_temp": "17.7"
+      "temperatureLow": "13.2",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "19",
-      "min_temp": "8.6",
-      "max_temp": "22.1"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "22.1"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "20",
-      "min_temp": "10.2",
-      "max_temp": "30.2"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "30.2"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "21",
-      "min_temp": "14.8",
-      "max_temp": "27.0"
+      "temperatureLow": "14.8",
+      "temperatureHigh": "27.0"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "22",
-      "min_temp": "13.7",
-      "max_temp": "17.6"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "17.6"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "23",
-      "min_temp": "11.1",
-      "max_temp": "18.5"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "18.5"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "24",
-      "min_temp": "14.6",
-      "max_temp": "23.2"
+      "temperatureLow": "14.6",
+      "temperatureHigh": "23.2"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "25",
-      "min_temp": "10.2",
-      "max_temp": "21.5"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "26",
-      "min_temp": "11.9",
-      "max_temp": "15.8"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "27",
-      "min_temp": "8.7",
-      "max_temp": "16.2"
+      "temperatureLow": "8.7",
+      "temperatureHigh": "16.2"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "28",
-      "min_temp": "12.4",
-      "max_temp": "17.4"
+      "temperatureLow": "12.4",
+      "temperatureHigh": "17.4"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "29",
-      "min_temp": "11.5",
-      "max_temp": "18.1"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2019",
       "month": "4",
       "day": "30",
-      "min_temp": "7.9",
-      "max_temp": "23.1"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "1",
-      "min_temp": "15.6",
-      "max_temp": "22.8"
+      "temperatureLow": "15.6",
+      "temperatureHigh": "22.8"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "2",
-      "min_temp": "17.1",
-      "max_temp": "20.2"
+      "temperatureLow": "17.1",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "3",
-      "min_temp": "11.8",
-      "max_temp": "20.7"
+      "temperatureLow": "11.8",
+      "temperatureHigh": "20.7"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "4",
-      "min_temp": "13.0",
-      "max_temp": "16.4"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "5",
-      "min_temp": "11.3",
-      "max_temp": "16.3"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "16.3"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "6",
-      "min_temp": "11.7",
-      "max_temp": "16.7"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "16.7"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "7",
-      "min_temp": "7.4",
-      "max_temp": "18.7"
+      "temperatureLow": "7.4",
+      "temperatureHigh": "18.7"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "8",
-      "min_temp": "10.3",
-      "max_temp": "17.4"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "17.4"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "9",
-      "min_temp": "9.7",
-      "max_temp": "16.2"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "16.2"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "10",
-      "min_temp": "10.2",
-      "max_temp": "14.2"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "11",
-      "min_temp": "10.2",
-      "max_temp": "16.4"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "12",
-      "min_temp": "12.2",
-      "max_temp": "17.7"
+      "temperatureLow": "12.2",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "13",
-      "min_temp": "12.7",
-      "max_temp": "18.1"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "14",
-      "min_temp": "11.3",
-      "max_temp": "20.2"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "15",
-      "min_temp": "12.0",
-      "max_temp": "15.8"
+      "temperatureLow": "12.0",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "16",
-      "min_temp": "10.5",
-      "max_temp": "16.1"
+      "temperatureLow": "10.5",
+      "temperatureHigh": "16.1"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "17",
-      "min_temp": "6.5",
-      "max_temp": "18.6"
+      "temperatureLow": "6.5",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "18",
-      "min_temp": "6.2",
-      "max_temp": "21.5"
+      "temperatureLow": "6.2",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "19",
-      "min_temp": "8.9",
-      "max_temp": "21.8"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "21.8"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "20",
-      "min_temp": "12.0",
-      "max_temp": "19.6"
+      "temperatureLow": "12.0",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "21",
-      "min_temp": "11.1",
-      "max_temp": "20.4"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "20.4"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "22",
-      "min_temp": "10.7",
-      "max_temp": "22.3"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "22.3"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "23",
-      "min_temp": "9.9",
-      "max_temp": "21.3"
+      "temperatureLow": "9.9",
+      "temperatureHigh": "21.3"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "24",
-      "min_temp": "13.8",
-      "max_temp": "20.2"
+      "temperatureLow": "13.8",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "25",
-      "min_temp": "13.7",
-      "max_temp": "19.8"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "19.8"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "26",
-      "min_temp": "9.5",
-      "max_temp": "15.1"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "27",
-      "min_temp": "7.8",
-      "max_temp": "14.0"
+      "temperatureLow": "7.8",
+      "temperatureHigh": "14.0"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "28",
-      "min_temp": "8.2",
-      "max_temp": "15.7"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "29",
-      "min_temp": "8.7",
-      "max_temp": "10.6"
+      "temperatureLow": "8.7",
+      "temperatureHigh": "10.6"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "30",
-      "min_temp": "6.7",
-      "max_temp": "13.3"
+      "temperatureLow": "6.7",
+      "temperatureHigh": "13.3"
     },
     {
       "year": "2019",
       "month": "5",
       "day": "31",
-      "min_temp": "8.5",
-      "max_temp": "14.3"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "14.3"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "1",
-      "min_temp": "11.7",
-      "max_temp": "14.6"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "14.6"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "2",
-      "min_temp": "11.0",
-      "max_temp": "14.5"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "14.5"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "3",
-      "min_temp": "8.2",
-      "max_temp": "12.0"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "12.0"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "4",
-      "min_temp": "8.4",
-      "max_temp": "12.9"
+      "temperatureLow": "8.4",
+      "temperatureHigh": "12.9"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "5",
-      "min_temp": "8.6",
-      "max_temp": "13.0"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "13.0"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "6",
-      "min_temp": "10.2",
-      "max_temp": "14.8"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "7",
-      "min_temp": "11.7",
-      "max_temp": "16.6"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "8",
-      "min_temp": "6.7",
-      "max_temp": "18.7"
+      "temperatureLow": "6.7",
+      "temperatureHigh": "18.7"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "9",
-      "min_temp": "7.8",
-      "max_temp": "18.0"
+      "temperatureLow": "7.8",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "10",
-      "min_temp": "12.0",
-      "max_temp": "19.2"
+      "temperatureLow": "12.0",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "11",
-      "min_temp": "9.6",
-      "max_temp": "17.9"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "17.9"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "12",
-      "min_temp": "11.9",
-      "max_temp": "16.5"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "16.5"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "13",
-      "min_temp": "8.8",
-      "max_temp": "17.4"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "17.4"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "14",
-      "min_temp": "10.0",
-      "max_temp": "17.3"
+      "temperatureLow": "10.0",
+      "temperatureHigh": "17.3"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "15",
-      "min_temp": "9.0",
-      "max_temp": "15.2"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "16",
-      "min_temp": "8.6",
-      "max_temp": "16.7"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "16.7"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "17",
-      "min_temp": "6.3",
-      "max_temp": "17.9"
+      "temperatureLow": "6.3",
+      "temperatureHigh": "17.9"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "18",
-      "min_temp": "8.0",
-      "max_temp": "13.7"
+      "temperatureLow": "8.0",
+      "temperatureHigh": "13.7"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "19",
-      "min_temp": "6.6",
-      "max_temp": "11.9"
+      "temperatureLow": "6.6",
+      "temperatureHigh": "11.9"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "20",
-      "min_temp": "6.4",
-      "max_temp": "11.3"
+      "temperatureLow": "6.4",
+      "temperatureHigh": "11.3"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "21",
-      "min_temp": "6.5",
-      "max_temp": "12.6"
+      "temperatureLow": "6.5",
+      "temperatureHigh": "12.6"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "22",
-      "min_temp": "6.8",
-      "max_temp": "11.8"
+      "temperatureLow": "6.8",
+      "temperatureHigh": "11.8"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "23",
-      "min_temp": "3.6",
-      "max_temp": "9.6"
+      "temperatureLow": "3.6",
+      "temperatureHigh": "9.6"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "24",
-      "min_temp": "4.2",
-      "max_temp": "16.0"
+      "temperatureLow": "4.2",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "25",
-      "min_temp": "3.5",
-      "max_temp": "17.0"
+      "temperatureLow": "3.5",
+      "temperatureHigh": "17.0"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "26",
-      "min_temp": "4.6",
-      "max_temp": "18.0"
+      "temperatureLow": "4.6",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "27",
-      "min_temp": "5.9",
-      "max_temp": "17.5"
+      "temperatureLow": "5.9",
+      "temperatureHigh": "17.5"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "28",
-      "min_temp": "10.7",
-      "max_temp": "19.5"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "19.5"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "29",
-      "min_temp": "13.0",
-      "max_temp": "17.6"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "17.6"
     },
     {
       "year": "2019",
       "month": "6",
       "day": "30",
-      "min_temp": "8.1",
-      "max_temp": "14.5"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "14.5"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "1",
-      "min_temp": "9.5",
-      "max_temp": "14.1"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "14.1"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "2",
-      "min_temp": "8.6",
-      "max_temp": "15.9"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "15.9"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "3",
-      "min_temp": "8.2",
-      "max_temp": "13.7"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "13.7"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "4",
-      "min_temp": "5.3",
-      "max_temp": "13.5"
+      "temperatureLow": "5.3",
+      "temperatureHigh": "13.5"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "5",
-      "min_temp": "3.5",
-      "max_temp": "19.1"
+      "temperatureLow": "3.5",
+      "temperatureHigh": "19.1"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "6",
-      "min_temp": "6.0",
-      "max_temp": "19.4"
+      "temperatureLow": "6.0",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "7",
-      "min_temp": "9.0",
-      "max_temp": "18.2"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "18.2"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "8",
-      "min_temp": "11.0",
-      "max_temp": "16.0"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "9",
-      "min_temp": "6.8",
-      "max_temp": "15.0"
+      "temperatureLow": "6.8",
+      "temperatureHigh": "15.0"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "10",
-      "min_temp": "9.5",
-      "max_temp": "15.4"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "15.4"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "11",
-      "min_temp": "7.8",
-      "max_temp": "14.3"
+      "temperatureLow": "7.8",
+      "temperatureHigh": "14.3"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "12",
-      "min_temp": "10.1",
-      "max_temp": "15.7"
+      "temperatureLow": "10.1",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "13",
-      "min_temp": "7.0",
-      "max_temp": "12.0"
+      "temperatureLow": "7.0",
+      "temperatureHigh": "12.0"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "14",
-      "min_temp": "7.1",
-      "max_temp": "13.1"
+      "temperatureLow": "7.1",
+      "temperatureHigh": "13.1"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "15",
-      "min_temp": "8.9",
-      "max_temp": "14.3"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "14.3"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "16",
-      "min_temp": "9.9",
-      "max_temp": "13.9"
+      "temperatureLow": "9.9",
+      "temperatureHigh": "13.9"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "17",
-      "min_temp": "9.7",
-      "max_temp": "13.7"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "13.7"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "18",
-      "min_temp": "9.0",
-      "max_temp": "14.3"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "14.3"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "19",
-      "min_temp": "7.5",
-      "max_temp": "15.7"
+      "temperatureLow": "7.5",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "20",
-      "min_temp": "8.0",
-      "max_temp": "17.1"
+      "temperatureLow": "8.0",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "21",
-      "min_temp": "11.3",
-      "max_temp": "16.6"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "22",
-      "min_temp": "7.9",
-      "max_temp": "15.6"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "15.6"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "23",
-      "min_temp": "9.9",
-      "max_temp": "15.2"
+      "temperatureLow": "9.9",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "24",
-      "min_temp": "7.0",
-      "max_temp": "14.4"
+      "temperatureLow": "7.0",
+      "temperatureHigh": "14.4"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "25",
-      "min_temp": "9.2",
-      "max_temp": "14.8"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "26",
-      "min_temp": "11.0",
-      "max_temp": "14.0"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "14.0"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "27",
-      "min_temp": "9.8",
-      "max_temp": "15.3"
+      "temperatureLow": "9.8",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "28",
-      "min_temp": "6.6",
-      "max_temp": "15.1"
+      "temperatureLow": "6.6",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "29",
-      "min_temp": "8.9",
-      "max_temp": "14.6"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "14.6"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "30",
-      "min_temp": "7.9",
-      "max_temp": "12.5"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2019",
       "month": "7",
       "day": "31",
-      "min_temp": "3.0",
-      "max_temp": "12.5"
+      "temperatureLow": "3.0",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "1",
-      "min_temp": "5.8",
-      "max_temp": "13.8"
+      "temperatureLow": "5.8",
+      "temperatureHigh": "13.8"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "2",
-      "min_temp": "9.7",
-      "max_temp": "12.7"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "12.7"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "3",
-      "min_temp": "10.0",
-      "max_temp": "13.9"
+      "temperatureLow": "10.0",
+      "temperatureHigh": "13.9"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "4",
-      "min_temp": "9.2",
-      "max_temp": "13.1"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "13.1"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "5",
-      "min_temp": "10.0",
-      "max_temp": "15.8"
+      "temperatureLow": "10.0",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "6",
-      "min_temp": "9.1",
-      "max_temp": "13.5"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "13.5"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "7",
-      "min_temp": "9.3",
-      "max_temp": "14.1"
+      "temperatureLow": "9.3",
+      "temperatureHigh": "14.1"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "8",
-      "min_temp": "6.7",
-      "max_temp": "13.9"
+      "temperatureLow": "6.7",
+      "temperatureHigh": "13.9"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "9",
-      "min_temp": "7.8",
-      "max_temp": "10.1"
+      "temperatureLow": "7.8",
+      "temperatureHigh": "10.1"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "10",
-      "min_temp": "5.2",
-      "max_temp": "12.5"
+      "temperatureLow": "5.2",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "11",
-      "min_temp": "4.8",
-      "max_temp": "12.9"
+      "temperatureLow": "4.8",
+      "temperatureHigh": "12.9"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "12",
-      "min_temp": "6.3",
-      "max_temp": "12.0"
+      "temperatureLow": "6.3",
+      "temperatureHigh": "12.0"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "13",
-      "min_temp": "8.8",
-      "max_temp": "13.1"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "13.1"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "14",
-      "min_temp": "9.1",
-      "max_temp": "13.8"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "13.8"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "15",
-      "min_temp": "7.3",
-      "max_temp": "16.2"
+      "temperatureLow": "7.3",
+      "temperatureHigh": "16.2"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "16",
-      "min_temp": "10.6",
-      "max_temp": "16.9"
+      "temperatureLow": "10.6",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "17",
-      "min_temp": "7.0",
-      "max_temp": "16.5"
+      "temperatureLow": "7.0",
+      "temperatureHigh": "16.5"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "18",
-      "min_temp": "8.8",
-      "max_temp": "19.4"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "19",
-      "min_temp": "5.8",
-      "max_temp": "12.3"
+      "temperatureLow": "5.8",
+      "temperatureHigh": "12.3"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "20",
-      "min_temp": "7.6",
-      "max_temp": "17.0"
+      "temperatureLow": "7.6",
+      "temperatureHigh": "17.0"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "21",
-      "min_temp": "11.5",
-      "max_temp": "16.6"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "22",
-      "min_temp": "9.6",
-      "max_temp": "13.0"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "13.0"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "23",
-      "min_temp": "3.8",
-      "max_temp": "15.1"
+      "temperatureLow": "3.8",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "24",
-      "min_temp": "7.9",
-      "max_temp": "18.0"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "25",
-      "min_temp": "6.5",
-      "max_temp": "12.9"
+      "temperatureLow": "6.5",
+      "temperatureHigh": "12.9"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "26",
-      "min_temp": "5.3",
-      "max_temp": "14.4"
+      "temperatureLow": "5.3",
+      "temperatureHigh": "14.4"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "27",
-      "min_temp": "4.2",
-      "max_temp": "15.3"
+      "temperatureLow": "4.2",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "28",
-      "min_temp": "8.3",
-      "max_temp": "13.4"
+      "temperatureLow": "8.3",
+      "temperatureHigh": "13.4"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "29",
-      "min_temp": "6.1",
-      "max_temp": "13.0"
+      "temperatureLow": "6.1",
+      "temperatureHigh": "13.0"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "30",
-      "min_temp": "2.3",
-      "max_temp": "15.3"
+      "temperatureLow": "2.3",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2019",
       "month": "8",
       "day": "31",
-      "min_temp": "5.0",
-      "max_temp": "18.2"
+      "temperatureLow": "5.0",
+      "temperatureHigh": "18.2"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "1",
-      "min_temp": "11.1",
-      "max_temp": "19.6"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "2",
-      "min_temp": "10.2",
-      "max_temp": "17.6"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "17.6"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "3",
-      "min_temp": "9.2",
-      "max_temp": "19.6"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "4",
-      "min_temp": "8.2",
-      "max_temp": "18.7"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "18.7"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "5",
-      "min_temp": "8.7",
-      "max_temp": "21.2"
+      "temperatureLow": "8.7",
+      "temperatureHigh": "21.2"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "6",
-      "min_temp": "11.3",
-      "max_temp": "16.0"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "7",
-      "min_temp": "8.8",
-      "max_temp": "12.9"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "12.9"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "8",
-      "min_temp": "8.2",
-      "max_temp": "15.1"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "9",
-      "min_temp": "6.8",
-      "max_temp": "12.8"
+      "temperatureLow": "6.8",
+      "temperatureHigh": "12.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "10",
-      "min_temp": "7.7",
-      "max_temp": "14.8"
+      "temperatureLow": "7.7",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "11",
-      "min_temp": "5.0",
-      "max_temp": "20.8"
+      "temperatureLow": "5.0",
+      "temperatureHigh": "20.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "12",
-      "min_temp": "11.1",
-      "max_temp": "20.8"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "20.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "13",
-      "min_temp": "7.7",
-      "max_temp": "18.6"
+      "temperatureLow": "7.7",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "14",
-      "min_temp": "9.3",
-      "max_temp": "20.0"
+      "temperatureLow": "9.3",
+      "temperatureHigh": "20.0"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "15",
-      "min_temp": "12.4",
-      "max_temp": "21.8"
+      "temperatureLow": "12.4",
+      "temperatureHigh": "21.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "16",
-      "min_temp": "9.7",
-      "max_temp": "12.8"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "12.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "17",
-      "min_temp": "3.6",
-      "max_temp": "14.8"
+      "temperatureLow": "3.6",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "18",
-      "min_temp": "4.3",
-      "max_temp": "18.9"
+      "temperatureLow": "4.3",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "19",
-      "min_temp": "8.2",
-      "max_temp": "24.0"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "24.0"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "20",
-      "min_temp": "15.7",
-      "max_temp": "26.2"
+      "temperatureLow": "15.7",
+      "temperatureHigh": "26.2"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "21",
-      "min_temp": "14.5",
-      "max_temp": "19.4"
+      "temperatureLow": "14.5",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "22",
-      "min_temp": "7.9",
-      "max_temp": "15.5"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "15.5"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "23",
-      "min_temp": "8.9",
-      "max_temp": "15.2"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "24",
-      "min_temp": "8.3",
-      "max_temp": "15.1"
+      "temperatureLow": "8.3",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "25",
-      "min_temp": "8.7",
-      "max_temp": "16.6"
+      "temperatureLow": "8.7",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "26",
-      "min_temp": "8.3",
-      "max_temp": "20.3"
+      "temperatureLow": "8.3",
+      "temperatureHigh": "20.3"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "27",
-      "min_temp": "12.3",
-      "max_temp": "18.8"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "18.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "28",
-      "min_temp": "7.2",
-      "max_temp": "14.9"
+      "temperatureLow": "7.2",
+      "temperatureHigh": "14.9"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "29",
-      "min_temp": "9.1",
-      "max_temp": "15.8"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2019",
       "month": "9",
       "day": "30",
-      "min_temp": "10.1",
-      "max_temp": "14.1"
+      "temperatureLow": "10.1",
+      "temperatureHigh": "14.1"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "1",
-      "min_temp": "4.2",
-      "max_temp": "20.5"
+      "temperatureLow": "4.2",
+      "temperatureHigh": "20.5"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "2",
-      "min_temp": "9.3",
-      "max_temp": "26.5"
+      "temperatureLow": "9.3",
+      "temperatureHigh": "26.5"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "3",
-      "min_temp": "15.1",
-      "max_temp": "29.7"
+      "temperatureLow": "15.1",
+      "temperatureHigh": "29.7"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "4",
-      "min_temp": "12.5",
-      "max_temp": "15.2"
+      "temperatureLow": "12.5",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "5",
-      "min_temp": "7.6",
-      "max_temp": "24.3"
+      "temperatureLow": "7.6",
+      "temperatureHigh": "24.3"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "6",
-      "min_temp": "12.9",
-      "max_temp": "24.8"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "24.8"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "7",
-      "min_temp": "11.6",
-      "max_temp": "16.4"
+      "temperatureLow": "11.6",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "8",
-      "min_temp": "9.5",
-      "max_temp": "14.2"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "9",
-      "min_temp": "8.5",
-      "max_temp": "15.0"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "15.0"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "10",
-      "min_temp": "10.2",
-      "max_temp": "14.7"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "14.7"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "11",
-      "min_temp": "9.5",
-      "max_temp": "18.9"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "12",
-      "min_temp": "8.2",
-      "max_temp": "20.4"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "20.4"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "13",
-      "min_temp": "9.4",
-      "max_temp": "23.1"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "14",
-      "min_temp": "13.6",
-      "max_temp": "26.7"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "26.7"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "15",
-      "min_temp": "13.0",
-      "max_temp": "18.0"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "16",
-      "min_temp": "13.3",
-      "max_temp": "20.4"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "20.4"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "17",
-      "min_temp": "9.5",
-      "max_temp": "15.2"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "18",
-      "min_temp": "7.3",
-      "max_temp": "22.1"
+      "temperatureLow": "7.3",
+      "temperatureHigh": "22.1"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "19",
-      "min_temp": "9.4",
-      "max_temp": "15.3"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "20",
-      "min_temp": "10.0",
-      "max_temp": "16.4"
+      "temperatureLow": "10.0",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "21",
-      "min_temp": "11.5",
-      "max_temp": "17.0"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "17.0"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "22",
-      "min_temp": "11.9",
-      "max_temp": "19.6"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "23",
-      "min_temp": "8.2",
-      "max_temp": "27.9"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "27.9"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "24",
-      "min_temp": "13.0",
-      "max_temp": "33.8"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "33.8"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "25",
-      "min_temp": "16.8",
-      "max_temp": "21.6"
+      "temperatureLow": "16.8",
+      "temperatureHigh": "21.6"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "26",
-      "min_temp": "9.6",
-      "max_temp": "15.5"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "15.5"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "27",
-      "min_temp": "10.3",
-      "max_temp": "17.0"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "17.0"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "28",
-      "min_temp": "8.7",
-      "max_temp": "21.6"
+      "temperatureLow": "8.7",
+      "temperatureHigh": "21.6"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "29",
-      "min_temp": "9.7",
-      "max_temp": "30.5"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "30.5"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "30",
-      "min_temp": "13.8",
-      "max_temp": "25.1"
+      "temperatureLow": "13.8",
+      "temperatureHigh": "25.1"
     },
     {
       "year": "2019",
       "month": "10",
       "day": "31",
-      "min_temp": "14.2",
-      "max_temp": "33.7"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "33.7"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "1",
-      "min_temp": "20.0",
-      "max_temp": "34.3"
+      "temperatureLow": "20.0",
+      "temperatureHigh": "34.3"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "2",
-      "min_temp": "15.8",
-      "max_temp": "18.9"
+      "temperatureLow": "15.8",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "3",
-      "min_temp": "12.8",
-      "max_temp": "20.7"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "20.7"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "4",
-      "min_temp": "9.5",
-      "max_temp": "16.2"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "16.2"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "5",
-      "min_temp": "7.7",
-      "max_temp": "19.6"
+      "temperatureLow": "7.7",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "6",
-      "min_temp": "10.5",
-      "max_temp": "24.1"
+      "temperatureLow": "10.5",
+      "temperatureHigh": "24.1"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "7",
-      "min_temp": "11.5",
-      "max_temp": "17.7"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "8",
-      "min_temp": "10.3",
-      "max_temp": "15.0"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "15.0"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "9",
-      "min_temp": "7.6",
-      "max_temp": "14.2"
+      "temperatureLow": "7.6",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "10",
-      "min_temp": "10.8",
-      "max_temp": "18.1"
+      "temperatureLow": "10.8",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "11",
-      "min_temp": "10.0",
-      "max_temp": "29.6"
+      "temperatureLow": "10.0",
+      "temperatureHigh": "29.6"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "12",
-      "min_temp": "11.5",
-      "max_temp": "17.4"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "17.4"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "13",
-      "min_temp": "9.1",
-      "max_temp": "17.3"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "17.3"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "14",
-      "min_temp": "12.1",
-      "max_temp": "22.4"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "22.4"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "15",
-      "min_temp": "13.0",
-      "max_temp": "18.5"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "18.5"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "16",
-      "min_temp": "9.2",
-      "max_temp": "17.2"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "17",
-      "min_temp": "10.8",
-      "max_temp": "16.2"
+      "temperatureLow": "10.8",
+      "temperatureHigh": "16.2"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "18",
-      "min_temp": "8.5",
-      "max_temp": "26.9"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "26.9"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "19",
-      "min_temp": "11.4",
-      "max_temp": "18.6"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "20",
-      "min_temp": "9.4",
-      "max_temp": "34.7"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "34.7"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "21",
-      "min_temp": "14.0",
-      "max_temp": "40.9"
+      "temperatureLow": "14.0",
+      "temperatureHigh": "40.9"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "22",
-      "min_temp": "13.6",
-      "max_temp": "20.0"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "20.0"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "23",
-      "min_temp": "10.1",
-      "max_temp": "23.8"
+      "temperatureLow": "10.1",
+      "temperatureHigh": "23.8"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "24",
-      "min_temp": "11.9",
-      "max_temp": "23.7"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "23.7"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "25",
-      "min_temp": "11.4",
-      "max_temp": "27.4"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "27.4"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "26",
-      "min_temp": "11.4",
-      "max_temp": "16.4"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "27",
-      "min_temp": "8.6",
-      "max_temp": "24.8"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "24.8"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "28",
-      "min_temp": "11.4",
-      "max_temp": "21.1"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "21.1"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "29",
-      "min_temp": "11.9",
-      "max_temp": "19.7"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2019",
       "month": "11",
       "day": "30",
-      "min_temp": "10.3",
-      "max_temp": "18.4"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "1",
-      "min_temp": "12.2",
-      "max_temp": "16.8"
+      "temperatureLow": "12.2",
+      "temperatureHigh": "16.8"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "2",
-      "min_temp": "9.8",
-      "max_temp": "15.5"
+      "temperatureLow": "9.8",
+      "temperatureHigh": "15.5"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "3",
-      "min_temp": "11.0",
-      "max_temp": "22.2"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "22.2"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "4",
-      "min_temp": "12.1",
-      "max_temp": "23.0"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "23.0"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "5",
-      "min_temp": "12.3",
-      "max_temp": "23.9"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "23.9"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "6",
-      "min_temp": "13.3",
-      "max_temp": "20.8"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "20.8"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "7",
-      "min_temp": "11.2",
-      "max_temp": "21.0"
+      "temperatureLow": "11.2",
+      "temperatureHigh": "21.0"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "8",
-      "min_temp": "13.8",
-      "max_temp": "27.6"
+      "temperatureLow": "13.8",
+      "temperatureHigh": "27.6"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "9",
-      "min_temp": "16.3",
-      "max_temp": "38.0"
+      "temperatureLow": "16.3",
+      "temperatureHigh": "38.0"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "10",
-      "min_temp": "14.3",
-      "max_temp": "17.2"
+      "temperatureLow": "14.3",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "11",
-      "min_temp": "13.4",
-      "max_temp": "18.1"
+      "temperatureLow": "13.4",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "12",
-      "min_temp": "13.4",
-      "max_temp": "18.4"
+      "temperatureLow": "13.4",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "13",
-      "min_temp": "11.4",
-      "max_temp": "20.9"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "20.9"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "14",
-      "min_temp": "14.1",
-      "max_temp": "20.1"
+      "temperatureLow": "14.1",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "15",
-      "min_temp": "15.1",
-      "max_temp": "21.7"
+      "temperatureLow": "15.1",
+      "temperatureHigh": "21.7"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "16",
-      "min_temp": "13.0",
-      "max_temp": "22.6"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "22.6"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "17",
-      "min_temp": "12.6",
-      "max_temp": "26.3"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "26.3"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "18",
-      "min_temp": "15.9",
-      "max_temp": "40.1"
+      "temperatureLow": "15.9",
+      "temperatureHigh": "40.1"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "19",
-      "min_temp": "17.2",
-      "max_temp": "23.3"
+      "temperatureLow": "17.2",
+      "temperatureHigh": "23.3"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "20",
-      "min_temp": "13.7",
-      "max_temp": "43.5"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "43.5"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "21",
-      "min_temp": "16.9",
-      "max_temp": "20.2"
+      "temperatureLow": "16.9",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "22",
-      "min_temp": "13.1",
-      "max_temp": "19.6"
+      "temperatureLow": "13.1",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "23",
-      "min_temp": "12.1",
-      "max_temp": "20.0"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "20.0"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "24",
-      "min_temp": "14.1",
-      "max_temp": "24.5"
+      "temperatureLow": "14.1",
+      "temperatureHigh": "24.5"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "25",
-      "min_temp": "14.0",
-      "max_temp": "27.9"
+      "temperatureLow": "14.0",
+      "temperatureHigh": "27.9"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "26",
-      "min_temp": "16.5",
-      "max_temp": "20.5"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "20.5"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "27",
-      "min_temp": "13.6",
-      "max_temp": "23.9"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "23.9"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "28",
-      "min_temp": "16.7",
-      "max_temp": "28.4"
+      "temperatureLow": "16.7",
+      "temperatureHigh": "28.4"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "29",
-      "min_temp": "16.8",
-      "max_temp": "33.2"
+      "temperatureLow": "16.8",
+      "temperatureHigh": "33.2"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "30",
-      "min_temp": "19.7",
-      "max_temp": "40.8"
+      "temperatureLow": "19.7",
+      "temperatureHigh": "40.8"
     },
     {
       "year": "2019",
       "month": "12",
       "day": "31",
-      "min_temp": "15.3",
-      "max_temp": "21.2"
+      "temperatureLow": "15.3",
+      "temperatureHigh": "21.2"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "1",
-      "min_temp": "11.8",
-      "max_temp": "24.9"
+      "temperatureLow": "11.8",
+      "temperatureHigh": "24.9"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "2",
-      "min_temp": "12.8",
-      "max_temp": "25.0"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "25.0"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "3",
-      "min_temp": "13.7",
-      "max_temp": "36.6"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "36.6"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "4",
-      "min_temp": "18.6",
-      "max_temp": "26.8"
+      "temperatureLow": "18.6",
+      "temperatureHigh": "26.8"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "5",
-      "min_temp": "12.7",
-      "max_temp": "16.7"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "16.7"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "6",
-      "min_temp": "11.9",
-      "max_temp": "18.0"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "7",
-      "min_temp": "12.6",
-      "max_temp": "20.1"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "8",
-      "min_temp": "16.8",
-      "max_temp": "23.8"
+      "temperatureLow": "16.8",
+      "temperatureHigh": "23.8"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "9",
-      "min_temp": "17.9",
-      "max_temp": "31.9"
+      "temperatureLow": "17.9",
+      "temperatureHigh": "31.9"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "10",
-      "min_temp": "20.1",
-      "max_temp": "32.9"
+      "temperatureLow": "20.1",
+      "temperatureHigh": "32.9"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "11",
-      "min_temp": "13.5",
-      "max_temp": "19.3"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "19.3"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "12",
-      "min_temp": "14.2",
-      "max_temp": "19.9"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "19.9"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "13",
-      "min_temp": "12.7",
-      "max_temp": "32.2"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "32.2"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "14",
-      "min_temp": "16.7",
-      "max_temp": "33.8"
+      "temperatureLow": "16.7",
+      "temperatureHigh": "33.8"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "15",
-      "min_temp": "19.5",
-      "max_temp": "36.8"
+      "temperatureLow": "19.5",
+      "temperatureHigh": "36.8"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "16",
-      "min_temp": "15.7",
-      "max_temp": "19.6"
+      "temperatureLow": "15.7",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "17",
-      "min_temp": "14.4",
-      "max_temp": "24.8"
+      "temperatureLow": "14.4",
+      "temperatureHigh": "24.8"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "18",
-      "min_temp": "13.9",
-      "max_temp": "29.4"
+      "temperatureLow": "13.9",
+      "temperatureHigh": "29.4"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "19",
-      "min_temp": "17.5",
-      "max_temp": "25.5"
+      "temperatureLow": "17.5",
+      "temperatureHigh": "25.5"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "20",
-      "min_temp": "19.1",
-      "max_temp": "21.8"
+      "temperatureLow": "19.1",
+      "temperatureHigh": "21.8"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "21",
-      "min_temp": "14.8",
-      "max_temp": "23.5"
+      "temperatureLow": "14.8",
+      "temperatureHigh": "23.5"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "22",
-      "min_temp": "14.1",
-      "max_temp": "31.7"
+      "temperatureLow": "14.1",
+      "temperatureHigh": "31.7"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "23",
-      "min_temp": "12.9",
-      "max_temp": "22.6"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "22.6"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "24",
-      "min_temp": "11.7",
-      "max_temp": "24.1"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "24.1"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "25",
-      "min_temp": "13.0",
-      "max_temp": "27.4"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "27.4"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "26",
-      "min_temp": "15.8",
-      "max_temp": "23.6"
+      "temperatureLow": "15.8",
+      "temperatureHigh": "23.6"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "27",
-      "min_temp": "12.8",
-      "max_temp": "23.1"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "28",
-      "min_temp": "13.6",
-      "max_temp": "25.4"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "25.4"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "29",
-      "min_temp": "15.2",
-      "max_temp": "31.5"
+      "temperatureLow": "15.2",
+      "temperatureHigh": "31.5"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "30",
-      "min_temp": "16.4",
-      "max_temp": "39.4"
+      "temperatureLow": "16.4",
+      "temperatureHigh": "39.4"
     },
     {
       "year": "2020",
       "month": "1",
       "day": "31",
-      "min_temp": "21.5",
-      "max_temp": "42.9"
+      "temperatureLow": "21.5",
+      "temperatureHigh": "42.9"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "1",
-      "min_temp": "23.5",
-      "max_temp": "29.3"
+      "temperatureLow": "23.5",
+      "temperatureHigh": "29.3"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "2",
-      "min_temp": "14.2",
-      "max_temp": "25.1"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "25.1"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "3",
-      "min_temp": "13.2",
-      "max_temp": "17.7"
+      "temperatureLow": "13.2",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "4",
-      "min_temp": "11.3",
-      "max_temp": "19.7"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "5",
-      "min_temp": "10.8",
-      "max_temp": "20.1"
+      "temperatureLow": "10.8",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "6",
-      "min_temp": "13.7",
-      "max_temp": "25.5"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "25.5"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "7",
-      "min_temp": "16.5",
-      "max_temp": "23.2"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "23.2"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "8",
-      "min_temp": "17.4",
-      "max_temp": "29.4"
+      "temperatureLow": "17.4",
+      "temperatureHigh": "29.4"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "9",
-      "min_temp": "19.6",
-      "max_temp": "28.2"
+      "temperatureLow": "19.6",
+      "temperatureHigh": "28.2"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "10",
-      "min_temp": "18.5",
-      "max_temp": "27.7"
+      "temperatureLow": "18.5",
+      "temperatureHigh": "27.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "11",
-      "min_temp": "19.5",
-      "max_temp": "25.9"
+      "temperatureLow": "19.5",
+      "temperatureHigh": "25.9"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "12",
-      "min_temp": "19.1",
-      "max_temp": "27.7"
+      "temperatureLow": "19.1",
+      "temperatureHigh": "27.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "13",
-      "min_temp": "19.4",
-      "max_temp": "31.7"
+      "temperatureLow": "19.4",
+      "temperatureHigh": "31.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "14",
-      "min_temp": "20.3",
-      "max_temp": "33.7"
+      "temperatureLow": "20.3",
+      "temperatureHigh": "33.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "15",
-      "min_temp": "18.9",
-      "max_temp": "19.3"
+      "temperatureLow": "18.9",
+      "temperatureHigh": "19.3"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "16",
-      "min_temp": "16.9",
-      "max_temp": "26.4"
+      "temperatureLow": "16.9",
+      "temperatureHigh": "26.4"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "17",
-      "min_temp": "15.2",
-      "max_temp": "25.6"
+      "temperatureLow": "15.2",
+      "temperatureHigh": "25.6"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "18",
-      "min_temp": "17.6",
-      "max_temp": "21.8"
+      "temperatureLow": "17.6",
+      "temperatureHigh": "21.8"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "19",
-      "min_temp": "13.3",
-      "max_temp": "19.7"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "20",
-      "min_temp": "14.2",
-      "max_temp": "18.7"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "18.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "21",
-      "min_temp": "13.5",
-      "max_temp": "19.6"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "22",
-      "min_temp": "11.4",
-      "max_temp": "21.1"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "21.1"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "23",
-      "min_temp": "13.3",
-      "max_temp": "34.0"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "34.0"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "24",
-      "min_temp": "16.8",
-      "max_temp": "23.7"
+      "temperatureLow": "16.8",
+      "temperatureHigh": "23.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "25",
-      "min_temp": "18.4",
-      "max_temp": "31.6"
+      "temperatureLow": "18.4",
+      "temperatureHigh": "31.6"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "26",
-      "min_temp": "16.2",
-      "max_temp": "19.2"
+      "temperatureLow": "16.2",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "27",
-      "min_temp": "11.0",
-      "max_temp": "19.7"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "28",
-      "min_temp": "13.1",
-      "max_temp": "20.1"
+      "temperatureLow": "13.1",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2020",
       "month": "2",
       "day": "29",
-      "min_temp": "14.7",
-      "max_temp": "22.4"
+      "temperatureLow": "14.7",
+      "temperatureHigh": "22.4"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "1",
-      "min_temp": "13.2",
-      "max_temp": "32.1"
+      "temperatureLow": "13.2",
+      "temperatureHigh": "32.1"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "2",
-      "min_temp": "14.2",
-      "max_temp": "18.4"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "3",
-      "min_temp": "14.7",
-      "max_temp": "19.5"
+      "temperatureLow": "14.7",
+      "temperatureHigh": "19.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "4",
-      "min_temp": "13.6",
-      "max_temp": "23.5"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "23.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "5",
-      "min_temp": "15.4",
-      "max_temp": "20.3"
+      "temperatureLow": "15.4",
+      "temperatureHigh": "20.3"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "6",
-      "min_temp": "15.9",
-      "max_temp": "19.0"
+      "temperatureLow": "15.9",
+      "temperatureHigh": "19.0"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "7",
-      "min_temp": "15.4",
-      "max_temp": "20.0"
+      "temperatureLow": "15.4",
+      "temperatureHigh": "20.0"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "8",
-      "min_temp": "13.9",
-      "max_temp": "22.4"
+      "temperatureLow": "13.9",
+      "temperatureHigh": "22.4"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "9",
-      "min_temp": "12.3",
-      "max_temp": "21.0"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "21.0"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "10",
-      "min_temp": "10.3",
-      "max_temp": "22.3"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "22.3"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "11",
-      "min_temp": "12.6",
-      "max_temp": "29.5"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "29.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "12",
-      "min_temp": "16.6",
-      "max_temp": "29.5"
+      "temperatureLow": "16.6",
+      "temperatureHigh": "29.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "13",
-      "min_temp": "19.1",
-      "max_temp": "26.8"
+      "temperatureLow": "19.1",
+      "temperatureHigh": "26.8"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "14",
-      "min_temp": "13.1",
-      "max_temp": "17.9"
+      "temperatureLow": "13.1",
+      "temperatureHigh": "17.9"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "15",
-      "min_temp": "12.7",
-      "max_temp": "18.8"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "18.8"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "16",
-      "min_temp": "9.3",
-      "max_temp": "26.5"
+      "temperatureLow": "9.3",
+      "temperatureHigh": "26.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "17",
-      "min_temp": "11.6",
-      "max_temp": "28.2"
+      "temperatureLow": "11.6",
+      "temperatureHigh": "28.2"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "18",
-      "min_temp": "17.7",
-      "max_temp": "28.3"
+      "temperatureLow": "17.7",
+      "temperatureHigh": "28.3"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "19",
-      "min_temp": "18.7",
-      "max_temp": "30.4"
+      "temperatureLow": "18.7",
+      "temperatureHigh": "30.4"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "20",
-      "min_temp": "16.1",
-      "max_temp": "22.7"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "22.7"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "21",
-      "min_temp": "14.6",
-      "max_temp": "18.4"
+      "temperatureLow": "14.6",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "22",
-      "min_temp": "12.1",
-      "max_temp": "18.3"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "18.3"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "23",
-      "min_temp": "12.7",
-      "max_temp": "17.1"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "24",
-      "min_temp": "8.5",
-      "max_temp": "17.9"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "17.9"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "25",
-      "min_temp": "10.8",
-      "max_temp": "17.5"
+      "temperatureLow": "10.8",
+      "temperatureHigh": "17.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "26",
-      "min_temp": "13.7",
-      "max_temp": "19.8"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "19.8"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "27",
-      "min_temp": "13.6",
-      "max_temp": "27.6"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "27.6"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "28",
-      "min_temp": "14.8",
-      "max_temp": "27.5"
+      "temperatureLow": "14.8",
+      "temperatureHigh": "27.5"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "29",
-      "min_temp": "16.5",
-      "max_temp": "26.4"
+      "temperatureLow": "16.5",
+      "temperatureHigh": "26.4"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "30",
-      "min_temp": "15.9",
-      "max_temp": "21.7"
+      "temperatureLow": "15.9",
+      "temperatureHigh": "21.7"
     },
     {
       "year": "2020",
       "month": "3",
       "day": "31",
-      "min_temp": "12.2",
-      "max_temp": "21.4"
+      "temperatureLow": "12.2",
+      "temperatureHigh": "21.4"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "1",
-      "min_temp": "11.0",
-      "max_temp": "23.1"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "23.1"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "2",
-      "min_temp": "12.4",
-      "max_temp": "20.7"
+      "temperatureLow": "12.4",
+      "temperatureHigh": "20.7"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "3",
-      "min_temp": "13.7",
-      "max_temp": "23.2"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "23.2"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "4",
-      "min_temp": "12.8",
-      "max_temp": "16.6"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "5",
-      "min_temp": "9.5",
-      "max_temp": "16.9"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "6",
-      "min_temp": "10.7",
-      "max_temp": "16.5"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "16.5"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "7",
-      "min_temp": "11.9",
-      "max_temp": "16.4"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "8",
-      "min_temp": "11.7",
-      "max_temp": "18.6"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "9",
-      "min_temp": "8.9",
-      "max_temp": "21.2"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "21.2"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "10",
-      "min_temp": "12.7",
-      "max_temp": "22.0"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "22.0"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "11",
-      "min_temp": "13.0",
-      "max_temp": "15.7"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "12",
-      "min_temp": "11.0",
-      "max_temp": "15.3"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "13",
-      "min_temp": "12.2",
-      "max_temp": "18.3"
+      "temperatureLow": "12.2",
+      "temperatureHigh": "18.3"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "14",
-      "min_temp": "12.1",
-      "max_temp": "23.4"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "23.4"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "15",
-      "min_temp": "15.6",
-      "max_temp": "23.5"
+      "temperatureLow": "15.6",
+      "temperatureHigh": "23.5"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "16",
-      "min_temp": "15.4",
-      "max_temp": "21.5"
+      "temperatureLow": "15.4",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "17",
-      "min_temp": "11.4",
-      "max_temp": "18.4"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "18",
-      "min_temp": "12.9",
-      "max_temp": "16.4"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "19",
-      "min_temp": "11.2",
-      "max_temp": "19.4"
+      "temperatureLow": "11.2",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "20",
-      "min_temp": "12.0",
-      "max_temp": "20.8"
+      "temperatureLow": "12.0",
+      "temperatureHigh": "20.8"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "21",
-      "min_temp": "8.5",
-      "max_temp": "19.6"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "22",
-      "min_temp": "12.8",
-      "max_temp": "18.2"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "18.2"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "23",
-      "min_temp": "9.6",
-      "max_temp": "19.7"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "24",
-      "min_temp": "15.1",
-      "max_temp": "22.3"
+      "temperatureLow": "15.1",
+      "temperatureHigh": "22.3"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "25",
-      "min_temp": "10.5",
-      "max_temp": "21.7"
+      "temperatureLow": "10.5",
+      "temperatureHigh": "21.7"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "26",
-      "min_temp": "15.4",
-      "max_temp": "17.7"
+      "temperatureLow": "15.4",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "27",
-      "min_temp": "8.1",
-      "max_temp": "18.1"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "28",
-      "min_temp": "7.1",
-      "max_temp": "18.9"
+      "temperatureLow": "7.1",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "29",
-      "min_temp": "11.2",
-      "max_temp": "19.8"
+      "temperatureLow": "11.2",
+      "temperatureHigh": "19.8"
     },
     {
       "year": "2020",
       "month": "4",
       "day": "30",
-      "min_temp": "8.9",
-      "max_temp": "15.5"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "15.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "1",
-      "min_temp": "7.6",
-      "max_temp": "13.0"
+      "temperatureLow": "7.6",
+      "temperatureHigh": "13.0"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "2",
-      "min_temp": "8.3",
-      "max_temp": "14.2"
+      "temperatureLow": "8.3",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "3",
-      "min_temp": "9.8",
-      "max_temp": "15.0"
+      "temperatureLow": "9.8",
+      "temperatureHigh": "15.0"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "4",
-      "min_temp": "9.4",
-      "max_temp": "14.8"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "5",
-      "min_temp": "8.0",
-      "max_temp": "19.5"
+      "temperatureLow": "8.0",
+      "temperatureHigh": "19.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "6",
-      "min_temp": "10.2",
-      "max_temp": "20.1"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "7",
-      "min_temp": "15.1",
-      "max_temp": "21.1"
+      "temperatureLow": "15.1",
+      "temperatureHigh": "21.1"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "8",
-      "min_temp": "12.6",
-      "max_temp": "19.6"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "9",
-      "min_temp": "12.6",
-      "max_temp": "14.0"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "14.0"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "10",
-      "min_temp": "7.2",
-      "max_temp": "14.5"
+      "temperatureLow": "7.2",
+      "temperatureHigh": "14.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "11",
-      "min_temp": "7.8",
-      "max_temp": "17.1"
+      "temperatureLow": "7.8",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "12",
-      "min_temp": "10.3",
-      "max_temp": "14.8"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "13",
-      "min_temp": "10.4",
-      "max_temp": "14.5"
+      "temperatureLow": "10.4",
+      "temperatureHigh": "14.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "14",
-      "min_temp": "6.6",
-      "max_temp": "14.7"
+      "temperatureLow": "6.6",
+      "temperatureHigh": "14.7"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "15",
-      "min_temp": "4.5",
-      "max_temp": "15.3"
+      "temperatureLow": "4.5",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "16",
-      "min_temp": "4.5",
-      "max_temp": "18.0"
+      "temperatureLow": "4.5",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "17",
-      "min_temp": "5.1",
-      "max_temp": "18.5"
+      "temperatureLow": "5.1",
+      "temperatureHigh": "18.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "18",
-      "min_temp": "5.5",
-      "max_temp": "19.4"
+      "temperatureLow": "5.5",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "19",
-      "min_temp": "8.1",
-      "max_temp": "17.7"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "20",
-      "min_temp": "10.3",
-      "max_temp": "15.8"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "21",
-      "min_temp": "9.4",
-      "max_temp": "13.7"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "13.7"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "22",
-      "min_temp": "9.1",
-      "max_temp": "13.6"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "13.6"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "23",
-      "min_temp": "9.4",
-      "max_temp": "13.5"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "13.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "24",
-      "min_temp": "10.9",
-      "max_temp": "13.8"
+      "temperatureLow": "10.9",
+      "temperatureHigh": "13.8"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "25",
-      "min_temp": "5.5",
-      "max_temp": "16.0"
+      "temperatureLow": "5.5",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "26",
-      "min_temp": "5.4",
-      "max_temp": "18.5"
+      "temperatureLow": "5.4",
+      "temperatureHigh": "18.5"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "27",
-      "min_temp": "5.9",
-      "max_temp": "17.1"
+      "temperatureLow": "5.9",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "28",
-      "min_temp": "12.1",
-      "max_temp": "17.6"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "17.6"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "29",
-      "min_temp": "7.2",
-      "max_temp": "17.1"
+      "temperatureLow": "7.2",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "30",
-      "min_temp": "8.1",
-      "max_temp": "17.1"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "5",
       "day": "31",
-      "min_temp": "12.4",
-      "max_temp": "17.8"
+      "temperatureLow": "12.4",
+      "temperatureHigh": "17.8"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "1",
-      "min_temp": "9.3",
-      "max_temp": "11.2"
+      "temperatureLow": "9.3",
+      "temperatureHigh": "11.2"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "2",
-      "min_temp": "8.4",
-      "max_temp": "15.6"
+      "temperatureLow": "8.4",
+      "temperatureHigh": "15.6"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "3",
-      "min_temp": "10.5",
-      "max_temp": "14.1"
+      "temperatureLow": "10.5",
+      "temperatureHigh": "14.1"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "4",
-      "min_temp": "9.3",
-      "max_temp": "13.8"
+      "temperatureLow": "9.3",
+      "temperatureHigh": "13.8"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "5",
-      "min_temp": "4.1",
-      "max_temp": "14.6"
+      "temperatureLow": "4.1",
+      "temperatureHigh": "14.6"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "6",
-      "min_temp": "6.0",
-      "max_temp": "13.3"
+      "temperatureLow": "6.0",
+      "temperatureHigh": "13.3"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "7",
-      "min_temp": "7.9",
-      "max_temp": "11.8"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "11.8"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "8",
-      "min_temp": "4.5",
-      "max_temp": "12.6"
+      "temperatureLow": "4.5",
+      "temperatureHigh": "12.6"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "9",
-      "min_temp": "2.0",
-      "max_temp": "15.3"
+      "temperatureLow": "2.0",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "10",
-      "min_temp": "3.9",
-      "max_temp": "16.7"
+      "temperatureLow": "3.9",
+      "temperatureHigh": "16.7"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "11",
-      "min_temp": "4.5",
-      "max_temp": "16.9"
+      "temperatureLow": "4.5",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "12",
-      "min_temp": "4.2",
-      "max_temp": "15.3"
+      "temperatureLow": "4.2",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "13",
-      "min_temp": "5.7",
-      "max_temp": "16.4"
+      "temperatureLow": "5.7",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "14",
-      "min_temp": "10.4",
-      "max_temp": "15.2"
+      "temperatureLow": "10.4",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "15",
-      "min_temp": "11.6",
-      "max_temp": "18.4"
+      "temperatureLow": "11.6",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "16",
-      "min_temp": "13.0",
-      "max_temp": "17.9"
+      "temperatureLow": "13.0",
+      "temperatureHigh": "17.9"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "17",
-      "min_temp": "10.2",
-      "max_temp": "14.6"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "14.6"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "18",
-      "min_temp": "4.6",
-      "max_temp": "16.9"
+      "temperatureLow": "4.6",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "19",
-      "min_temp": "6.4",
-      "max_temp": "17.8"
+      "temperatureLow": "6.4",
+      "temperatureHigh": "17.8"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "20",
-      "min_temp": "12.8",
-      "max_temp": "16.9"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "21",
-      "min_temp": "6.9",
-      "max_temp": "12.0"
+      "temperatureLow": "6.9",
+      "temperatureHigh": "12.0"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "22",
-      "min_temp": "8.1",
-      "max_temp": "13.0"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "13.0"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "23",
-      "min_temp": "9.0",
-      "max_temp": "14.4"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "14.4"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "24",
-      "min_temp": "10.1",
-      "max_temp": "14.9"
+      "temperatureLow": "10.1",
+      "temperatureHigh": "14.9"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "25",
-      "min_temp": "10.2",
-      "max_temp": "15.9"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "15.9"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "26",
-      "min_temp": "7.9",
-      "max_temp": "13.8"
+      "temperatureLow": "7.9",
+      "temperatureHigh": "13.8"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "27",
-      "min_temp": "6.2",
-      "max_temp": "13.1"
+      "temperatureLow": "6.2",
+      "temperatureHigh": "13.1"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "28",
-      "min_temp": "1.7",
-      "max_temp": "12.5"
+      "temperatureLow": "1.7",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "29",
-      "min_temp": "2.2",
-      "max_temp": "15.4"
+      "temperatureLow": "2.2",
+      "temperatureHigh": "15.4"
     },
     {
       "year": "2020",
       "month": "6",
       "day": "30",
-      "min_temp": "3.0",
-      "max_temp": "15.2"
+      "temperatureLow": "3.0",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "1",
-      "min_temp": "9.8",
-      "max_temp": "17.4"
+      "temperatureLow": "9.8",
+      "temperatureHigh": "17.4"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "2",
-      "min_temp": "10.2",
-      "max_temp": "15.1"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "3",
-      "min_temp": "7.7",
-      "max_temp": "10.3"
+      "temperatureLow": "7.7",
+      "temperatureHigh": "10.3"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "4",
-      "min_temp": "6.5",
-      "max_temp": "14.5"
+      "temperatureLow": "6.5",
+      "temperatureHigh": "14.5"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "5",
-      "min_temp": "8.9",
-      "max_temp": "12.5"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "6",
-      "min_temp": "8.1",
-      "max_temp": "13.1"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "13.1"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "7",
-      "min_temp": "8.9",
-      "max_temp": "11.8"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "11.8"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "8",
-      "min_temp": "4.9",
-      "max_temp": "15.7"
+      "temperatureLow": "4.9",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "9",
-      "min_temp": "5.7",
-      "max_temp": "17.2"
+      "temperatureLow": "5.7",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "10",
-      "min_temp": "6.4",
-      "max_temp": "16.9"
+      "temperatureLow": "6.4",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "11",
-      "min_temp": "7.3",
-      "max_temp": "11.4"
+      "temperatureLow": "7.3",
+      "temperatureHigh": "11.4"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "12",
-      "min_temp": "9.0",
-      "max_temp": "14.2"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "13",
-      "min_temp": "8.7",
-      "max_temp": "15.1"
+      "temperatureLow": "8.7",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "14",
-      "min_temp": "7.7",
-      "max_temp": "14.2"
+      "temperatureLow": "7.7",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "15",
-      "min_temp": "6.2",
-      "max_temp": "14.7"
+      "temperatureLow": "6.2",
+      "temperatureHigh": "14.7"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "16",
-      "min_temp": "4.2",
-      "max_temp": "11.5"
+      "temperatureLow": "4.2",
+      "temperatureHigh": "11.5"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "17",
-      "min_temp": "3.1",
-      "max_temp": "12.8"
+      "temperatureLow": "3.1",
+      "temperatureHigh": "12.8"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "18",
-      "min_temp": "4.0",
-      "max_temp": "12.5"
+      "temperatureLow": "4.0",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "19",
-      "min_temp": "8.2",
-      "max_temp": "15.3"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "15.3"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "20",
-      "min_temp": "7.6",
-      "max_temp": "13.8"
+      "temperatureLow": "7.6",
+      "temperatureHigh": "13.8"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "21",
-      "min_temp": "7.2",
-      "max_temp": "12.9"
+      "temperatureLow": "7.2",
+      "temperatureHigh": "12.9"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "22",
-      "min_temp": "8.1",
-      "max_temp": "13.3"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "13.3"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "23",
-      "min_temp": "8.1",
-      "max_temp": "12.0"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "12.0"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "24",
-      "min_temp": "6.1",
-      "max_temp": "13.5"
+      "temperatureLow": "6.1",
+      "temperatureHigh": "13.5"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "25",
-      "min_temp": "4.3",
-      "max_temp": "12.2"
+      "temperatureLow": "4.3",
+      "temperatureHigh": "12.2"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "26",
-      "min_temp": "5.0",
-      "max_temp": "12.8"
+      "temperatureLow": "5.0",
+      "temperatureHigh": "12.8"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "27",
-      "min_temp": "7.4",
-      "max_temp": "13.5"
+      "temperatureLow": "7.4",
+      "temperatureHigh": "13.5"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "28",
-      "min_temp": "9.6",
-      "max_temp": "15.6"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "15.6"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "29",
-      "min_temp": "8.6",
-      "max_temp": "16.3"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "16.3"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "30",
-      "min_temp": "8.0",
-      "max_temp": "14.2"
+      "temperatureLow": "8.0",
+      "temperatureHigh": "14.2"
     },
     {
       "year": "2020",
       "month": "7",
       "day": "31",
-      "min_temp": "3.4",
-      "max_temp": "17.1"
+      "temperatureLow": "3.4",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "1",
-      "min_temp": "5.7",
-      "max_temp": "16.4"
+      "temperatureLow": "5.7",
+      "temperatureHigh": "16.4"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "2",
-      "min_temp": "9.0",
-      "max_temp": "18.2"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "18.2"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "3",
-      "min_temp": "7.5",
-      "max_temp": "16.0"
+      "temperatureLow": "7.5",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "4",
-      "min_temp": "5.1",
-      "max_temp": "10.5"
+      "temperatureLow": "5.1",
+      "temperatureHigh": "10.5"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "5",
-      "min_temp": "4.7",
-      "max_temp": "11.3"
+      "temperatureLow": "4.7",
+      "temperatureHigh": "11.3"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "6",
-      "min_temp": "5.5",
-      "max_temp": "12.8"
+      "temperatureLow": "5.5",
+      "temperatureHigh": "12.8"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "7",
-      "min_temp": "3.3",
-      "max_temp": "12.7"
+      "temperatureLow": "3.3",
+      "temperatureHigh": "12.7"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "8",
-      "min_temp": "4.7",
-      "max_temp": "14.9"
+      "temperatureLow": "4.7",
+      "temperatureHigh": "14.9"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "9",
-      "min_temp": "8.9",
-      "max_temp": "15.8"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "10",
-      "min_temp": "5.7",
-      "max_temp": "14.8"
+      "temperatureLow": "5.7",
+      "temperatureHigh": "14.8"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "11",
-      "min_temp": "4.3",
-      "max_temp": "15.8"
+      "temperatureLow": "4.3",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "12",
-      "min_temp": "9.4",
-      "max_temp": "15.9"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "15.9"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "13",
-      "min_temp": "11.4",
-      "max_temp": "18.1"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "14",
-      "min_temp": "10.7",
-      "max_temp": "18.1"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "15",
-      "min_temp": "7.4",
-      "max_temp": "14.9"
+      "temperatureLow": "7.4",
+      "temperatureHigh": "14.9"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "16",
-      "min_temp": "10.7",
-      "max_temp": "15.0"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "15.0"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "17",
-      "min_temp": "9.5",
-      "max_temp": "16.3"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "16.3"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "18",
-      "min_temp": "10.0",
-      "max_temp": "17.2"
+      "temperatureLow": "10.0",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "19",
-      "min_temp": "9.7",
-      "max_temp": "12.7"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "12.7"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "20",
-      "min_temp": "9.6",
-      "max_temp": "15.7"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "21",
-      "min_temp": "8.5",
-      "max_temp": "14.1"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "14.1"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "22",
-      "min_temp": "5.8",
-      "max_temp": "11.1"
+      "temperatureLow": "5.8",
+      "temperatureHigh": "11.1"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "23",
-      "min_temp": "6.8",
-      "max_temp": "11.5"
+      "temperatureLow": "6.8",
+      "temperatureHigh": "11.5"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "24",
-      "min_temp": "6.3",
-      "max_temp": "12.4"
+      "temperatureLow": "6.3",
+      "temperatureHigh": "12.4"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "25",
-      "min_temp": "3.6",
-      "max_temp": "13.0"
+      "temperatureLow": "3.6",
+      "temperatureHigh": "13.0"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "26",
-      "min_temp": "6.1",
-      "max_temp": "14.5"
+      "temperatureLow": "6.1",
+      "temperatureHigh": "14.5"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "27",
-      "min_temp": "8.8",
-      "max_temp": "20.7"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "20.7"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "28",
-      "min_temp": "8.5",
-      "max_temp": "17.6"
+      "temperatureLow": "8.5",
+      "temperatureHigh": "17.6"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "29",
-      "min_temp": "9.2",
-      "max_temp": "19.3"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "19.3"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "30",
-      "min_temp": "12.0",
-      "max_temp": "19.8"
+      "temperatureLow": "12.0",
+      "temperatureHigh": "19.8"
     },
     {
       "year": "2020",
       "month": "8",
       "day": "31",
-      "min_temp": "6.9",
-      "max_temp": "12.5"
+      "temperatureLow": "6.9",
+      "temperatureHigh": "12.5"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "1",
-      "min_temp": "6.6",
-      "max_temp": "15.7"
+      "temperatureLow": "6.6",
+      "temperatureHigh": "15.7"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "2",
-      "min_temp": "8.6",
-      "max_temp": "22.0"
+      "temperatureLow": "8.6",
+      "temperatureHigh": "22.0"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "3",
-      "min_temp": "12.9",
-      "max_temp": "19.9"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "19.9"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "4",
-      "min_temp": "9.0",
-      "max_temp": "17.3"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "17.3"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "5",
-      "min_temp": "9.7",
-      "max_temp": "16.6"
+      "temperatureLow": "9.7",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "6",
-      "min_temp": "6.9",
-      "max_temp": "19.2"
+      "temperatureLow": "6.9",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "7",
-      "min_temp": "8.8",
-      "max_temp": "22.9"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "22.9"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "8",
-      "min_temp": "16.6",
-      "max_temp": "19.9"
+      "temperatureLow": "16.6",
+      "temperatureHigh": "19.9"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "9",
-      "min_temp": "8.1",
-      "max_temp": "15.6"
+      "temperatureLow": "8.1",
+      "temperatureHigh": "15.6"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "10",
-      "min_temp": "5.4",
-      "max_temp": "21.4"
+      "temperatureLow": "5.4",
+      "temperatureHigh": "21.4"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "11",
-      "min_temp": "10.4",
-      "max_temp": "19.4"
+      "temperatureLow": "10.4",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "12",
-      "min_temp": "13.3",
-      "max_temp": "16.0"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "13",
-      "min_temp": "11.9",
-      "max_temp": "17.2"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "14",
-      "min_temp": "11.1",
-      "max_temp": "16.6"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "15",
-      "min_temp": "7.4",
-      "max_temp": "15.8"
+      "temperatureLow": "7.4",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "16",
-      "min_temp": "7.1",
-      "max_temp": "22.8"
+      "temperatureLow": "7.1",
+      "temperatureHigh": "22.8"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "17",
-      "min_temp": "11.8",
-      "max_temp": "15.5"
+      "temperatureLow": "11.8",
+      "temperatureHigh": "15.5"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "18",
-      "min_temp": "8.4",
-      "max_temp": "18.7"
+      "temperatureLow": "8.4",
+      "temperatureHigh": "18.7"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "19",
-      "min_temp": "11.3",
-      "max_temp": "26.3"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "26.3"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "20",
-      "min_temp": "17.1",
-      "max_temp": "22.0"
+      "temperatureLow": "17.1",
+      "temperatureHigh": "22.0"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "21",
-      "min_temp": "16.6",
-      "max_temp": "19.8"
+      "temperatureLow": "16.6",
+      "temperatureHigh": "19.8"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "22",
-      "min_temp": "12.3",
-      "max_temp": "18.9"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "23",
-      "min_temp": "10.6",
-      "max_temp": "15.1"
+      "temperatureLow": "10.6",
+      "temperatureHigh": "15.1"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "24",
-      "min_temp": "8.2",
-      "max_temp": "15.0"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "15.0"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "25",
-      "min_temp": "7.2",
-      "max_temp": "11.9"
+      "temperatureLow": "7.2",
+      "temperatureHigh": "11.9"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "26",
-      "min_temp": "6.2",
-      "max_temp": "13.4"
+      "temperatureLow": "6.2",
+      "temperatureHigh": "13.4"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "27",
-      "min_temp": "8.8",
-      "max_temp": "13.4"
+      "temperatureLow": "8.8",
+      "temperatureHigh": "13.4"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "28",
-      "min_temp": "6.5",
-      "max_temp": "13.6"
+      "temperatureLow": "6.5",
+      "temperatureHigh": "13.6"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "29",
-      "min_temp": "4.3",
-      "max_temp": "21.0"
+      "temperatureLow": "4.3",
+      "temperatureHigh": "21.0"
     },
     {
       "year": "2020",
       "month": "9",
       "day": "30",
-      "min_temp": "10.7",
-      "max_temp": "19.4"
+      "temperatureLow": "10.7",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "1",
-      "min_temp": "9.4",
-      "max_temp": "19.5"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "19.5"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "2",
-      "min_temp": "12.8",
-      "max_temp": "26.0"
+      "temperatureLow": "12.8",
+      "temperatureHigh": "26.0"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "3",
-      "min_temp": "17.4",
-      "max_temp": "29.4"
+      "temperatureLow": "17.4",
+      "temperatureHigh": "29.4"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "4",
-      "min_temp": "13.5",
-      "max_temp": "29.5"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "29.5"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "5",
-      "min_temp": "9.1",
-      "max_temp": "12.7"
+      "temperatureLow": "9.1",
+      "temperatureHigh": "12.7"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "6",
-      "min_temp": "8.9",
-      "max_temp": "12.6"
+      "temperatureLow": "8.9",
+      "temperatureHigh": "12.6"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "7",
-      "min_temp": "10.1",
-      "max_temp": "17.2"
+      "temperatureLow": "10.1",
+      "temperatureHigh": "17.2"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "8",
-      "min_temp": "11.4",
-      "max_temp": "16.9"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "16.9"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "9",
-      "min_temp": "11.7",
-      "max_temp": "16.7"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "16.7"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "10",
-      "min_temp": "10.8",
-      "max_temp": "19.4"
+      "temperatureLow": "10.8",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "11",
-      "min_temp": "11.5",
-      "max_temp": "16.0"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "16.0"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "12",
-      "min_temp": "6.3",
-      "max_temp": "25.5"
+      "temperatureLow": "6.3",
+      "temperatureHigh": "25.5"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "13",
-      "min_temp": "10.6",
-      "max_temp": "16.6"
+      "temperatureLow": "10.6",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "14",
-      "min_temp": "11.9",
-      "max_temp": "22.7"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "22.7"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "15",
-      "min_temp": "13.8",
-      "max_temp": "24.8"
+      "temperatureLow": "13.8",
+      "temperatureHigh": "24.8"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "16",
-      "min_temp": "9.4",
-      "max_temp": "18.2"
+      "temperatureLow": "9.4",
+      "temperatureHigh": "18.2"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "17",
-      "min_temp": "11.9",
-      "max_temp": "19.2"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "18",
-      "min_temp": "11.3",
-      "max_temp": "15.2"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "15.2"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "19",
-      "min_temp": "8.2",
-      "max_temp": "15.5"
+      "temperatureLow": "8.2",
+      "temperatureHigh": "15.5"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "20",
-      "min_temp": "7.3",
-      "max_temp": "16.6"
+      "temperatureLow": "7.3",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "21",
-      "min_temp": "10.4",
-      "max_temp": "18.1"
+      "temperatureLow": "10.4",
+      "temperatureHigh": "18.1"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "22",
-      "min_temp": "9.2",
-      "max_temp": "18.0"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "18.0"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "23",
-      "min_temp": "12.9",
-      "max_temp": "19.7"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "19.7"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "24",
-      "min_temp": "11.8",
-      "max_temp": "14.9"
+      "temperatureLow": "11.8",
+      "temperatureHigh": "14.9"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "25",
-      "min_temp": "8.3",
-      "max_temp": "14.6"
+      "temperatureLow": "8.3",
+      "temperatureHigh": "14.6"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "26",
-      "min_temp": "9.2",
-      "max_temp": "17.9"
+      "temperatureLow": "9.2",
+      "temperatureHigh": "17.9"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "27",
-      "min_temp": "11.1",
-      "max_temp": "19.6"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "19.6"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "28",
-      "min_temp": "9.5",
-      "max_temp": "20.9"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "20.9"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "29",
-      "min_temp": "11.2",
-      "max_temp": "24.3"
+      "temperatureLow": "11.2",
+      "temperatureHigh": "24.3"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "30",
-      "min_temp": "12.9",
-      "max_temp": "18.6"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2020",
       "month": "10",
       "day": "31",
-      "min_temp": "14.2",
-      "max_temp": "16.8"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "16.8"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "1",
-      "min_temp": "12.6",
-      "max_temp": "17.0"
+      "temperatureLow": "12.6",
+      "temperatureHigh": "17.0"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "2",
-      "min_temp": "9.6",
-      "max_temp": "29.5"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "29.5"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "3",
-      "min_temp": "12.1",
-      "max_temp": "30.4"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "30.4"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "4",
-      "min_temp": "21.9",
-      "max_temp": "22.8"
+      "temperatureLow": "21.9",
+      "temperatureHigh": "22.8"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "5",
-      "min_temp": "11.1",
-      "max_temp": "15.8"
+      "temperatureLow": "11.1",
+      "temperatureHigh": "15.8"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "6",
-      "min_temp": "9.5",
-      "max_temp": "16.6"
+      "temperatureLow": "9.5",
+      "temperatureHigh": "16.6"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "7",
-      "min_temp": "11.3",
-      "max_temp": "16.1"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "16.1"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "8",
-      "min_temp": "8.4",
-      "max_temp": "19.5"
+      "temperatureLow": "8.4",
+      "temperatureHigh": "19.5"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "9",
-      "min_temp": "11.3",
-      "max_temp": "29.0"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "29.0"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "10",
-      "min_temp": "16.1",
-      "max_temp": "32.0"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "32.0"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "11",
-      "min_temp": "22.8",
-      "max_temp": "28.3"
+      "temperatureLow": "22.8",
+      "temperatureHigh": "28.3"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "12",
-      "min_temp": "19.3",
-      "max_temp": "25.5"
+      "temperatureLow": "19.3",
+      "temperatureHigh": "25.5"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "13",
-      "min_temp": "15.4",
-      "max_temp": "20.6"
+      "temperatureLow": "15.4",
+      "temperatureHigh": "20.6"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "14",
-      "min_temp": "13.5",
-      "max_temp": "21.0"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "21.0"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "15",
-      "min_temp": "12.3",
-      "max_temp": "32.5"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "32.5"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "16",
-      "min_temp": "18.2",
-      "max_temp": "24.3"
+      "temperatureLow": "18.2",
+      "temperatureHigh": "24.3"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "17",
-      "min_temp": "11.9",
-      "max_temp": "21.1"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "21.1"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "18",
-      "min_temp": "10.8",
-      "max_temp": "29.5"
+      "temperatureLow": "10.8",
+      "temperatureHigh": "29.5"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "19",
-      "min_temp": "16.1",
-      "max_temp": "34.4"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "34.4"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "20",
-      "min_temp": "15.6",
-      "max_temp": "20.2"
+      "temperatureLow": "15.6",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "21",
-      "min_temp": "13.3",
-      "max_temp": "25.7"
+      "temperatureLow": "13.3",
+      "temperatureHigh": "25.7"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "22",
-      "min_temp": "16.1",
-      "max_temp": "28.2"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "28.2"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "23",
-      "min_temp": "16.6",
-      "max_temp": "18.8"
+      "temperatureLow": "16.6",
+      "temperatureHigh": "18.8"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "24",
-      "min_temp": "13.5",
-      "max_temp": "20.3"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "20.3"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "25",
-      "min_temp": "13.2",
-      "max_temp": "30.5"
+      "temperatureLow": "13.2",
+      "temperatureHigh": "30.5"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "26",
-      "min_temp": "15.8",
-      "max_temp": "19.4"
+      "temperatureLow": "15.8",
+      "temperatureHigh": "19.4"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "27",
-      "min_temp": "10.2",
-      "max_temp": "36.0"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "36.0"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "28",
-      "min_temp": "16.0",
-      "max_temp": "22.9"
+      "temperatureLow": "16.0",
+      "temperatureHigh": "22.9"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "29",
-      "min_temp": "14.4",
-      "max_temp": "18.6"
+      "temperatureLow": "14.4",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2020",
       "month": "11",
       "day": "30",
-      "min_temp": "12.1",
-      "max_temp": "27.2"
+      "temperatureLow": "12.1",
+      "temperatureHigh": "27.2"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "1",
-      "min_temp": "16.8",
-      "max_temp": "26.2"
+      "temperatureLow": "16.8",
+      "temperatureHigh": "26.2"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "2",
-      "min_temp": "11.9",
-      "max_temp": "18.6"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "3",
-      "min_temp": "10.6",
-      "max_temp": "23.7"
+      "temperatureLow": "10.6",
+      "temperatureHigh": "23.7"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "4",
-      "min_temp": "11.4",
-      "max_temp": "22.9"
+      "temperatureLow": "11.4",
+      "temperatureHigh": "22.9"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "5",
-      "min_temp": "13.9",
-      "max_temp": "28.4"
+      "temperatureLow": "13.9",
+      "temperatureHigh": "28.4"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "6",
-      "min_temp": "12.9",
-      "max_temp": "20.5"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "20.5"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "7",
-      "min_temp": "11.3",
-      "max_temp": "17.3"
+      "temperatureLow": "11.3",
+      "temperatureHigh": "17.3"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "8",
-      "min_temp": "10.6",
-      "max_temp": "17.1"
+      "temperatureLow": "10.6",
+      "temperatureHigh": "17.1"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "9",
-      "min_temp": "11.7",
-      "max_temp": "21.5"
+      "temperatureLow": "11.7",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "10",
-      "min_temp": "13.1",
-      "max_temp": "17.7"
+      "temperatureLow": "13.1",
+      "temperatureHigh": "17.7"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "11",
-      "min_temp": "9.6",
-      "max_temp": "21.1"
+      "temperatureLow": "9.6",
+      "temperatureHigh": "21.1"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "12",
-      "min_temp": "11.9",
-      "max_temp": "28.1"
+      "temperatureLow": "11.9",
+      "temperatureHigh": "28.1"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "13",
-      "min_temp": "16.0",
-      "max_temp": "30.2"
+      "temperatureLow": "16.0",
+      "temperatureHigh": "30.2"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "14",
-      "min_temp": "17.7",
-      "max_temp": "33.7"
+      "temperatureLow": "17.7",
+      "temperatureHigh": "33.7"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "15",
-      "min_temp": "20.4",
-      "max_temp": "33.5"
+      "temperatureLow": "20.4",
+      "temperatureHigh": "33.5"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "16",
-      "min_temp": "15.8",
-      "max_temp": "24.6"
+      "temperatureLow": "15.8",
+      "temperatureHigh": "24.6"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "17",
-      "min_temp": "15.5",
-      "max_temp": "25.7"
+      "temperatureLow": "15.5",
+      "temperatureHigh": "25.7"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "18",
-      "min_temp": "12.5",
-      "max_temp": "18.4"
+      "temperatureLow": "12.5",
+      "temperatureHigh": "18.4"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "19",
-      "min_temp": "12.3",
-      "max_temp": "19.9"
+      "temperatureLow": "12.3",
+      "temperatureHigh": "19.9"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "20",
-      "min_temp": "9.9",
-      "max_temp": "18.9"
+      "temperatureLow": "9.9",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "21",
-      "min_temp": "11.2",
-      "max_temp": "21.5"
+      "temperatureLow": "11.2",
+      "temperatureHigh": "21.5"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "22",
-      "min_temp": "13.8",
-      "max_temp": "20.4"
+      "temperatureLow": "13.8",
+      "temperatureHigh": "20.4"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "23",
-      "min_temp": "13.5",
-      "max_temp": "19.5"
+      "temperatureLow": "13.5",
+      "temperatureHigh": "19.5"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "24",
-      "min_temp": "13.4",
-      "max_temp": "18.7"
+      "temperatureLow": "13.4",
+      "temperatureHigh": "18.7"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "25",
-      "min_temp": "13.6",
-      "max_temp": "20.0"
+      "temperatureLow": "13.6",
+      "temperatureHigh": "20.0"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "26",
-      "min_temp": "10.2",
-      "max_temp": "27.4"
+      "temperatureLow": "10.2",
+      "temperatureHigh": "27.4"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "27",
-      "min_temp": "16.2",
-      "max_temp": "31.9"
+      "temperatureLow": "16.2",
+      "temperatureHigh": "31.9"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "28",
-      "min_temp": "11.5",
-      "max_temp": "17.8"
+      "temperatureLow": "11.5",
+      "temperatureHigh": "17.8"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "29",
-      "min_temp": "9.0",
-      "max_temp": "21.3"
+      "temperatureLow": "9.0",
+      "temperatureHigh": "21.3"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "30",
-      "min_temp": "13.7",
-      "max_temp": "21.4"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "21.4"
     },
     {
       "year": "2020",
       "month": "12",
       "day": "31",
-      "min_temp": "15.5",
-      "max_temp": "21.2"
+      "temperatureLow": "15.5",
+      "temperatureHigh": "21.2"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "1",
-      "min_temp": "15.6",
-      "max_temp": "29.9"
+      "temperatureLow": "15.6",
+      "temperatureHigh": "29.9"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "2",
-      "min_temp": "18.4",
-      "max_temp": "29.0"
+      "temperatureLow": "18.4",
+      "temperatureHigh": "29.0"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "3",
-      "min_temp": "17.0",
-      "max_temp": "26.2"
+      "temperatureLow": "17.0",
+      "temperatureHigh": "26.2"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "4",
-      "min_temp": "16.0",
-      "max_temp": "18.6"
+      "temperatureLow": "16.0",
+      "temperatureHigh": "18.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "5",
-      "min_temp": "15.9",
-      "max_temp": "19.1"
+      "temperatureLow": "15.9",
+      "temperatureHigh": "19.1"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "6",
-      "min_temp": "13.7",
-      "max_temp": "19.2"
+      "temperatureLow": "13.7",
+      "temperatureHigh": "19.2"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "7",
-      "min_temp": "14.7",
-      "max_temp": "25.7"
+      "temperatureLow": "14.7",
+      "temperatureHigh": "25.7"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "8",
-      "min_temp": "12.7",
-      "max_temp": "24.3"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "24.3"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "9",
-      "min_temp": "14.2",
-      "max_temp": "27.9"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "27.9"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "10",
-      "min_temp": "16.9",
-      "max_temp": "33.5"
+      "temperatureLow": "16.9",
+      "temperatureHigh": "33.5"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "11",
-      "min_temp": "19.2",
-      "max_temp": "36.7"
+      "temperatureLow": "19.2",
+      "temperatureHigh": "36.7"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "12",
-      "min_temp": "18.3",
-      "max_temp": "21.6"
+      "temperatureLow": "18.3",
+      "temperatureHigh": "21.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "13",
-      "min_temp": "14.5",
-      "max_temp": "27.0"
+      "temperatureLow": "14.5",
+      "temperatureHigh": "27.0"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "14",
-      "min_temp": "15.0",
-      "max_temp": "22.2"
+      "temperatureLow": "15.0",
+      "temperatureHigh": "22.2"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "15",
-      "min_temp": "13.2",
-      "max_temp": "20.6"
+      "temperatureLow": "13.2",
+      "temperatureHigh": "20.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "16",
-      "min_temp": "11.0",
-      "max_temp": "20.1"
+      "temperatureLow": "11.0",
+      "temperatureHigh": "20.1"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "17",
-      "min_temp": "12.9",
-      "max_temp": "20.2"
+      "temperatureLow": "12.9",
+      "temperatureHigh": "20.2"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "18",
-      "min_temp": "14.1",
-      "max_temp": "22.6"
+      "temperatureLow": "14.1",
+      "temperatureHigh": "22.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "19",
-      "min_temp": "14.2",
-      "max_temp": "18.9"
+      "temperatureLow": "14.2",
+      "temperatureHigh": "18.9"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "20",
-      "min_temp": "10.3",
-      "max_temp": "22.6"
+      "temperatureLow": "10.3",
+      "temperatureHigh": "22.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "21",
-      "min_temp": "12.7",
-      "max_temp": "31.6"
+      "temperatureLow": "12.7",
+      "temperatureHigh": "31.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "22",
-      "min_temp": "15.8",
-      "max_temp": "25.0"
+      "temperatureLow": "15.8",
+      "temperatureHigh": "25.0"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "23",
-      "min_temp": "14.7",
-      "max_temp": "26.7"
+      "temperatureLow": "14.7",
+      "temperatureHigh": "26.7"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "24",
-      "min_temp": "16.1",
-      "max_temp": "37.8"
+      "temperatureLow": "16.1",
+      "temperatureHigh": "37.8"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "25",
-      "min_temp": "22.2",
-      "max_temp": "39.2"
+      "temperatureLow": "22.2",
+      "temperatureHigh": "39.2"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "26",
-      "min_temp": "17.7",
-      "max_temp": "19.3"
+      "temperatureLow": "17.7",
+      "temperatureHigh": "19.3"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "27",
-      "min_temp": "14.3",
-      "max_temp": "25.8"
+      "temperatureLow": "14.3",
+      "temperatureHigh": "25.8"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "28",
-      "min_temp": "15.4",
-      "max_temp": "25.5"
+      "temperatureLow": "15.4",
+      "temperatureHigh": "25.5"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "29",
-      "min_temp": "18.9",
-      "max_temp": "21.6"
+      "temperatureLow": "18.9",
+      "temperatureHigh": "21.6"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "30",
-      "min_temp": "16.7",
-      "max_temp": "21.9"
+      "temperatureLow": "16.7",
+      "temperatureHigh": "21.9"
     },
     {
       "year": "2021",
       "month": "1",
       "day": "31",
-      "min_temp": "16.4",
-      "max_temp": "21.8"
+      "temperatureLow": "16.4",
+      "temperatureHigh": "21.8"
     },
     {
       "year": "2021",
       "month": "2",
       "day": "1",
-      "min_temp": "13.4",
-      "max_temp": "20.3"
+      "temperatureLow": "13.4",
+      "temperatureHigh": "20.3"
     },
     {
       "year": "2021",
       "month": "2",
       "day": "2",
-      "min_temp": "14.5",
-      "max_temp": "19.3"
+      "temperatureLow": "14.5",
+      "temperatureHigh": "19.3"
     }
   ]
